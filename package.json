@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "Here is my eslint config. Feel free to use it:)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarasikee/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "typescript",
+    "react",
+    "next"
+  ],
+  "author": "Tarasikee",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-next": "^13.1.6",
+    "eslint-plugin-jest": "^26.7.0",
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint-plugin-testing-library": "^5.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Tarasikee/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Tarasikee/eslint-config#readme"
+}
